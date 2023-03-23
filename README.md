@@ -10,5 +10,9 @@ I'm currently open to jobs or internships as a frontend/creative developer.
 
 # Some of the stuff I've worked on
 
-- YGOSearch!
-- Portfolio
+- [YGOSearch!](https://www.ygosearch.net/) - 3D rendered API search. (Three.js, Next.js, React)
+- [Portfolio](https://www.imjin.dev/) - Three.js portfolio site. (Three.js, Next.js, React)
+
+- [Mortgage prepayment visualization](https://mortgage-invest.vercel.app/) - Mortgage prepayment vs investment visualizer. (React, SVG animations)
+- [Skill Issue](https://www.skill-issue.com/) - Popular League of Legends webgame using Riot Games' API. (React, Firebase, Google Analytics)
+- [Passport Tips](https://passport.tips/) - Passport renewal time estimator/aggregator. (React)
