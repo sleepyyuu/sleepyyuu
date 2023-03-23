@@ -9,3 +9,6 @@ I'm currently open to jobs or internships as a frontend/creative developer.
 ---
 
 # Some of the stuff I've worked on
+
+- YGOSearch!
+- Portfolio
