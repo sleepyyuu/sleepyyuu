@@ -1,4 +1,4 @@
-# Hi, I'm Jin!
+## Hi, I'm Jin!
 
 I'm a a creative/front end developer from Los Angeles that enjoys creating functional and beautiful web experiences.
 
@@ -8,4 +8,4 @@ I'm currently open to jobs or internships as a frontend/creative developer.
 
 ---
 
-Some of the stuff I've worked on
+# Some of the stuff I've worked on
