@@ -4,7 +4,7 @@ I'm a a creative/front end developer from Los Angeles that enjoys creating funct
 
 My stack includes React, Three.js, Next.js, WebGL, and TypeScript.
 
-I'm currently open to jobs or internships as a frontend/creative developer.
+I'm currently open to opportunities as a frontend/creative developer.
 
 ---
 
