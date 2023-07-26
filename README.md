@@ -10,6 +10,7 @@ I'm currently open to opportunities as a frontend/creative developer.
 
 # Some of the stuff I've worked on
 
+- [Shrine Gate](https://gate-scene.vercel.app/) (WIP) - Torii shrine gate scene. (Three.js, React Three Fiber, React)
 - [Final Fantasy XIV Web Scene](https://xiv-portal.vercel.app/) - Model viewer demo scene for Final Fantasy 14. (Three.js, React Three Fiber, React)
 - [YGOSearch!](https://www.ygosearch.net/) - 3D rendered API search. (Three.js, Next.js, React)
 - [Portfolio](https://www.imjin.dev/) - Three.js portfolio site. (Three.js, Next.js, React)
