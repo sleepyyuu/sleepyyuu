@@ -4,17 +4,10 @@ I'm a a creative/front end developer from Los Angeles that enjoys creating funct
 
 My stack includes React, Three.js, Next.js, WebGL, and TypeScript.
 
-I'm currently open to opportunities as a frontend/creative developer.
+Feel free to reach out to me if you have an interesting project/work you'd like to collaborate on.
 
 ---
 
-# Some of the stuff I've worked on
+[Graphics journal](https://journal.imjin.dev/)  - A collection/playground of some of my WebGL works.
 
-- [Shrine Gate](https://gate-scene.vercel.app/) (WIP) - Torii shrine gate scene. (Three.js, React Three Fiber, React)
-- [Custom Keycap AI Integration](https://keysim-gpt.vercel.app/) - ChatGPT integration for an open-source 3D keycap set configurator. (React, Serverless Functions)
-- [Final Fantasy XIV Web Scene](https://xiv-portal.vercel.app/) - Model viewer demo scene for Final Fantasy 14. (Three.js, React Three Fiber, React)
-
-
-
-- [Skill Issue](https://www.skill-issue.com/) - Popular League of Legends webgame using Riot Games' API. (React, Firebase, Google Analytics)
 
